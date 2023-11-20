@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844139874286",
+    "project_id": "ucharan-68b5d",
+    "storage_bucket": "ucharan-68b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844139874286:android:3a55a155f9cccf6f5730ff",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844139874286-vjd1kl79liuapt3c6r8mhm7sga3tqvnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5SikHOsACIY9jDz1eTdPGQrk3qB78nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844139874286-vjd1kl79liuapt3c6r8mhm7sga3tqvnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
